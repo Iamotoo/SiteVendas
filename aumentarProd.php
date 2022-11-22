@@ -6,5 +6,5 @@
 
     $_SESSION['itensCarrinho'][$cod]++;
 
-    header("Location: carrinho.php");
+    header("Location: carrinho.php"); 
 ?>
